@@ -3,7 +3,9 @@ Welcome To Selenium The Class Experience
 
 CURRENTLY WORKING ON: 
 
-https://github.com/anayafran/seleniumhca/blob/master/Book%20Code/Day%2002_%20Chapters%204-8/Chapter%206/JoinLinkedIn2.java
+Chapter 7 Code:
+https://github.com/anayafran/seleniumhca/blob/master/Book%20Code/Day%2002_%20Chapters%204-8/Chapter%207/FindColleague.java
+
 
 
 Roadmap of The Class
