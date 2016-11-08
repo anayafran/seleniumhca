@@ -6,12 +6,12 @@ public class JoinLinkedIn2 {
     WebDriver driver;
     @BeforeTest
     public void setUp() throws Exception {
-        //System.setProperty("webdriver.chrome.driver", "C:/SeleniumLabs/LabEnvironment/SeleniumServers/chromedriver.exe");
         
-        
-        driver = new ChromeDriver();
+    	System.setProperty("webdriver.chrome.driver", "C:/SeleniumLabs/LabEnvironment/SeleniumServers/chromedriver.exe");
+    	driver = new ChromeDriver();
         // Go to LinkedIn’s Home Page
-        driver.get("https: //www.linkedin.com/");
+        
+        driver.get("https://www.linkedin.com/");
         }
         @AfterTest
         public void tearDown() throws Exception {
@@ -26,4 +26,4 @@ public class JoinLinkedIn2 {
             // Clear first name via clear
             userFirstName.clear();
         }
-    }
+}
