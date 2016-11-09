@@ -5,8 +5,7 @@ CURRENTLY WORKING ON:
 
 
 #Expedia Part Complete
-
-https://github.com/anayafran/seleniumhca/tree/master/Bonus_Scripts
+https://github.com/anayafran/seleniumhca/blob/master/Bonus_Scripts/Screenshots_part2_complete
 
 Roadmap of The Class
 https://mm.tt/790240907?t=VHFkiOQBxT
