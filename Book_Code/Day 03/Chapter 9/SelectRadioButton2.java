@@ -1,6 +1,6 @@
 // Build On Prior Pages
 
-package InClassExample;
+package inClassExamples;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -15,19 +15,17 @@ public class SelectRadioButton2
         driver = new ChromeDriver();
         driver.get("https://www.facebook.com/");
 
-
-
-
+	}
 
 
 	@AfterTest
 	public void tearDown () throws Exception
 	{
-	driver.quit();
+	//driver.quit();
 	}
 	@Test
 	public void selectGender ()
 		{
-		driver.findElement(By.cssSelector("#u_0_f")).click();
+		//driver.findElement(By.cssSelector("#u_0_f")).click();
 		}
 }
