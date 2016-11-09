@@ -4,9 +4,9 @@ Welcome To Selenium The Class Experience
 CURRENTLY WORKING ON: 
 
 
-#Chapter 9 Code:
+#Expedia Part 1 Example
 
-https://github.com/anayafran/seleniumhca/blob/master/Book_Code/Day%2003/Chapter%209/SelectRadioButton2.java
+https://github.com/anayafran/seleniumhca/blob/master/Bonus_Scripts/Screenshots_part1.java
 
 Roadmap of The Class
 https://mm.tt/790240907?t=VHFkiOQBxT
